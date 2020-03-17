@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class Hello{
+    //Comment required by Lab06
     public static void main(String[] args){
         //Scanner set up to take user input
         Scanner scnr = new Scanner(System.in);
